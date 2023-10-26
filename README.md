@@ -29,6 +29,6 @@ Using the pseudo-random generated data does not account for variance in the dist
 ## Results
 The results of the test show that we have p-value of 3.58e-17 which is way smaller than the alpha of 0.05. Now the null hypothesis is rejected. Using this inductive approach of using the theory that pseudo-randomly generated data can be used as a pattern for real world observations then the null hypothesis can be rejected. Thus, there is a statistical difference of outages between seasons.
 
-# Recommendations
+## Recommendations
 Data transparency and data accessibility are key elements in improving ERCOT’s data policies. By taking greater responsibility and possession of energy resource related data they can focus on making this data more accessible to the public. Creating a data warehouse for public consumption would allow researchers to better investigate ERCOT and its related energy resources. Further upstanding is needed for predicting power outages caused by weather related events.
 
